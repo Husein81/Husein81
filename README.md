@@ -1,9 +1,4 @@
+### Hello there 👋
+I'm Husein from Lebanon, and I am a Software Engineer Student. I really 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huseincode&theme=dark&show_icons=true)
 ### About Me
-- 🌱 I’m currently learning JavaScript, Python, React.JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-huseincode/huseincode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
