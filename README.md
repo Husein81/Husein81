@@ -1,16 +1,21 @@
 <h1 align="center">Hi 👋, I'm hussein</h1>
 <h3 align="center">A passionate Web developer from Lebanon</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=huseincode&label=Profile%20views&color=0e75b6&style=flat" alt="huseincode" /> </p>
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huseincode" alt="huseincode" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript and C**
+
+- 💬 Ask me about **C, JavaScript , and Python**
 
 - 📫 How to reach me **husseinnasrallah2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/husein_nasralah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="husein_nasralah" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hussein nasrallah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussein nasrallah" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/hussein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hussein" height="30" width="40" /></a>
 <a href="https://instagram.com/webdev.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="webdev.official" height="30" width="40" /></a>
 </p>
 
@@ -19,9 +24,9 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/huseincode"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="huseincode" /></a></p><br><br>
-<div>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huseincode&show_icons=true&locale=en&layout=compact" alt="huseincode" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huseincode&show_icons=true&locale=en" alt="huseincode" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huseincode&" alt="huseincode" /></p>
-</div>
