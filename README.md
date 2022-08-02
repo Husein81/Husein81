@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/husein_nasralah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="husein_nasralah" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hussein nasrallah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussein nasrallah" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/hussein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hussein" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/husseinnasrallah2002@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hussein" height="30" width="40" /></a>
 <a href="https://instagram.com/webdev.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="webdev.official" height="30" width="40" /></a>
 </p>
 
