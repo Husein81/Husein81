@@ -1,33 +1,66 @@
-<h1 align="center">Hi 👋, I'm hussein</h1>
+<h1 align="center">Hi 👋, I'm Hussein</h1>
 <h3 align="center">A passionate Web developer from Lebanon</h3>
 
+<p align="left">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=Husein81" alt="huseincode" />
+    </a>
+</p>
 
+<p>🌱 I’m currently learning <strong>React JS, C#, and Laravel</strong></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Husein81" alt="huseincode" /></a> </p>
+<p>💬 Ask me about <strong>C, JavaScript, Java, C#, and Laravel</strong></p>
 
-- 🌱 I’m currently learning **React JS, C and Java**
-
-- 💬 Ask me about **C, JavaScript , Java**
-
-- 📫 How to reach me **husseinnasrallah2002@gmail.com**
+<p>📫 How to reach me <strong>husseinnasrallah2002@gmail.com</strong></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/husein_nasralah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="husein_nasralah" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hussein nasrallah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussein nasrallah" height="30" width="40" /></a>
-<a href="https://instagram.com/webdev.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="webdev.official" height="30" width="40" /></a>
+    <a href="https://twitter.com/husein_nasralah" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="husein_nasralah" height="30" width="40" />
+    </a>
+    <a href="https://linkedin.com/in/hussein-nasrallah" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussein nasrallah" height="30" width="40" />
+    </a>
+    <a href="https://instagram.com/webdev.official" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="webdev.official" height="30" width="40" />
+    </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="javascript" width="40" height="40"/> </p>
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/huseincode"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="huseincode" /></a></p>
-<br><br>
-<br></br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Husein81&show_icons=true&locale=en&layout=compact" alt="huseincode" /></p>
-<br></br>
-<br></br><br></br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Husein81&show_icons=true&locale=en" alt="huseincode" /></p>
+<p align="left">
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+    </a>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+    </a>
+    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+    </a>
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="javascript" width="40" height="40"/>
+    </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Husein81&" alt="huseincode" /></p>
+<h3 align="left">Support:</h3>
+<p>
+    <a href="https://www.buymeacoffee.com/huseincode">
+        <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="huseincode" />
+    </a>
+</p>
+<br><br><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Husein81&show_icons=true&locale=en&layout=compact" alt="huseincode" /></p>
+<br>
+<br><br><br><br><br><br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Husein81&show_icons=true&locale=en" alt="huseincode" /></p>
+
