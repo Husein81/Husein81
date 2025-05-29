@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hussein</h1>
 <h3 align="center">A Software developer from Lebanon</h3>
 
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=Husein81" alt="huseincode" />
-    </a>
-</p>
+<p>🌱 I’m currently learning <strong>AI & Machine Learning</strong></p>
 
-<p>🌱 I’m currently learning <strong>React JS, C#, and Laravel</strong></p>
-
-<p>💬 Ask me about <strong>C, JavaScript, Java, C#, and Laravel</strong></p>
+<p>💬 Ask me about <strong>C, JavaScript, Typescript, Java, C#, </strong></p>
 
 <p>📫 How to reach me <strong>husseinnasrallah2002@gmail.com</strong></p>
 
@@ -51,12 +45,6 @@
     </a>
 </p>
 
-<h3 align="left">Support:</h3>
-<p>
-    <a href="https://www.buymeacoffee.com/huseincode">
-        <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="huseincode" />
-    </a>
-</p>
 <br><br><br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Husein81&show_icons=true&locale=en&layout=compact" alt="huseincode" /></p>
 <br>
