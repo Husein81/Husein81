@@ -4,7 +4,7 @@
 ---
 
 ### 🌱 Currently Learning
-- **Artificial Intelligence & Machine Learning**
+- **Artificial Intelligence, Machine Learning & Data Science**
 
 ### 📫 Reach Me At
 - **Email:** husseinnasrallah2002@gmail.com
